@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+# Halo Semua!
+
+Perkenalkan nama saya **Refido Arjunal Akmal**.\
+Saya seorang **Manusia ingin menjadi Programmer**
+
+Saya juga seorang Backend Developer
+
+Jika ingin berteman ikuti akun media sosialku
+
 <!--
 **minangcoding/minangcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
